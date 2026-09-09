@@ -1,0 +1,14 @@
+{
+    "baseURL": "https://www.demoblaze.com",
+    "username": "pavanol",
+    "password": "test@123",
+    "product": "Samsung galaxy s6",
+    "order": {
+        "name": "Vinay",
+        "country": "India",
+        "city": "Bangalore",
+        "card": "123456789012",
+        "month": "June",
+        "year": "2026"
+    }
+}
