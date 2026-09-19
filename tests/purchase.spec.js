@@ -23,6 +23,7 @@ test("Valid Login Test", async ({ page }) => {
    await cart.fillOrderForm(data.order)
    await cart.purchase()
    await cart.getSuccessMessage()
+   console.log("Home")
 
    
 });
