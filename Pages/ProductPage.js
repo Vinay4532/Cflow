@@ -18,6 +18,8 @@ class ProductPage extends BasePage
 
         await this.click(this.addToCartButton);
     }
+    //vinay
 
 }
 module.exports={ProductPage}
+//vinay
